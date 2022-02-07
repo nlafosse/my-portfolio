@@ -21,6 +21,9 @@ const Navbar = () => {
         <Link to={"#"}>
           <div>Contact Me</div>
         </Link>
+        <Link to={"#"}>
+          <div>About</div>
+        </Link>
       </div>
     </div>
   );
